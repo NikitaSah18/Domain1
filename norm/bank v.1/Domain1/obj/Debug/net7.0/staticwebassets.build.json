@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "Hash": "ows6NddsTtyYYVFxKj57ApC0uAaIBLm6LvcVVtH1QzM=",
+  "Source": "Domain1",
+  "BasePath": "_content/Domain1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\РГРТУ\\norm\\bank v.1\\bank v.1\\bank v.1.csproj",
+      "Version": 2,
+      "Source": "bank v.1",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\РГРТУ\\norm\\bank v.1\\bank v.1\\bank v.1.csproj",
+      "Version": 2,
+      "Source": "bank v.1",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
